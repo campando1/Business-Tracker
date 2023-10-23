@@ -1,0 +1,23 @@
+html {
+    font-size: 22px;
+}
+
+body {
+    background-color: #333;
+    color: whitesmoke;
+}
+
+#empreendedor1 {
+    width: 400px;
+    height: 400px;
+}
+
+#empreendedor2 {
+    width: 400px;
+    height: 400px;
+}
+
+#empreendedor3 {
+    width: 400px;
+    height: 400px;
+}
