@@ -8,5 +8,5 @@
 
 💡 *PMI I*
 
-🔗 *url github:*
-🛬 *url landpage:*
+🔗 *url github:* https://github.com/campando1/Business-Tracker
+🛬 *url landpage:* https://campando1.github.io/Business-Tracker/
